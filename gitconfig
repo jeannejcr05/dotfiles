@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jeanne.joncheray@mmibordeaux.com
+	name = Jeanne Joncheray
